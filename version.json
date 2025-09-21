@@ -1,0 +1,317 @@
+{
+    "version": "1.0.0",
+    "files": [
+        {
+            "path": "version.json",
+            "url": "http://[::]:8080/game/version.json",
+            "size": 3707,
+            "hash": "89ffeb4b2ef61e9ceee971b834217f12204003575e9a9a0bf0cc19b83fdb93aa"
+        },
+        {
+            "path": "release/D3Dcompiler_47.dll",
+            "url": "http://[::]:8080/game/release/D3Dcompiler_47.dll",
+            "size": 4173928,
+            "hash": "e994847e01a6f1e4cbdc5a864616ac262f67ee4f14db194984661a8d927ab7f4"
+        },
+        {
+            "path": "release/game.exe",
+            "url": "http://[::]:8080/game/release/game.exe",
+            "size": 26112,
+            "hash": "79630435e6a7a188210266ec4cf4e175fd1e89e7c1b3951141d4306f984942d4"
+        },
+        {
+            "path": "release/libEGL.dll",
+            "url": "http://[::]:8080/game/release/libEGL.dll",
+            "size": 67688,
+            "hash": "6f2af191db10019374e79e2afe2febfaa53c21257efcd4d41b50d947c700e2d3"
+        },
+        {
+            "path": "release/libgcc_s_seh-1.dll",
+            "url": "http://[::]:8080/game/release/libgcc_s_seh-1.dll",
+            "size": 74240,
+            "hash": "479907904acf2836a3e103a192393e98c98cfddc1b4c0b8ff20a442521900c6a"
+        },
+        {
+            "path": "release/libGLESv2.dll",
+            "url": "http://[::]:8080/game/release/libGLESv2.dll",
+            "size": 6362768,
+            "hash": "46998b7ca48999b07005d4bcaa4256abce3150cc5f2c527fff26779cd76f1bd8"
+        },
+        {
+            "path": "release/libstdc++-6.dll",
+            "url": "http://[::]:8080/game/release/libstdc++-6.dll",
+            "size": 1425920,
+            "hash": "cdd31659dedfc2aac51b2cabb77c061603fd3f91fe98958b9c179cc3f4ac6104"
+        },
+        {
+            "path": "release/libwinpthread-1.dll",
+            "url": "http://[::]:8080/game/release/libwinpthread-1.dll",
+            "size": 52224,
+            "hash": "bd4f622a67e6f33aec119d987b1ae2b0fc52b8d5a1b2a805aab654d507f569d3"
+        },
+        {
+            "path": "release/main.o",
+            "url": "http://[::]:8080/game/release/main.o",
+            "size": 1320,
+            "hash": "365dd0439b9434a0464eab33d17248ec9b25a5a5a482b47859098cac47e09d17"
+        },
+        {
+            "path": "release/mainwindow.o",
+            "url": "http://[::]:8080/game/release/mainwindow.o",
+            "size": 5443,
+            "hash": "ecbbce33e1c23e28e510e7190c0cc144ac543e503ac970e0a5fb822882a2f992"
+        },
+        {
+            "path": "release/moc_mainwindow.cpp",
+            "url": "http://[::]:8080/game/release/moc_mainwindow.cpp",
+            "size": 2805,
+            "hash": "d7341e2776ef168cdeec427d060004f087f59aabde8abaa7482915f98643216f"
+        },
+        {
+            "path": "release/moc_mainwindow.o",
+            "url": "http://[::]:8080/game/release/moc_mainwindow.o",
+            "size": 9314,
+            "hash": "7ce5b3ef48e186b20b9373b67c4fe0741fdd6247d6e7326b2169560ac3fa4b2c"
+        },
+        {
+            "path": "release/moc_predefs.h",
+            "url": "http://[::]:8080/game/release/moc_predefs.h",
+            "size": 14583,
+            "hash": "2a10971ebcf8ca5706a9a8159c1b74c9457f8d6d3f60c72fc8a0c7d9ee4f7f72"
+        },
+        {
+            "path": "release/opengl32sw.dll",
+            "url": "http://[::]:8080/game/release/opengl32sw.dll",
+            "size": 20923392,
+            "hash": "963641a718f9cae2705d5299eae9b7444e84e72ab3bef96a691510dd05fa1da4"
+        },
+        {
+            "path": "release/Qt5Core.dll",
+            "url": "http://[::]:8080/game/release/Qt5Core.dll",
+            "size": 8343776,
+            "hash": "019ab6aa811087b36d0a91c35a70b8eb7756b7f0f072afa0449b3805ccac7efc"
+        },
+        {
+            "path": "release/Qt5Gui.dll",
+            "url": "http://[::]:8080/game/release/Qt5Gui.dll",
+            "size": 9844240,
+            "hash": "43deed28133c0e530ed44fff3649a87022a80bdb4ef493048518c72ac4656b99"
+        },
+        {
+            "path": "release/Qt5Svg.dll",
+            "url": "http://[::]:8080/game/release/Qt5Svg.dll",
+            "size": 575128,
+            "hash": "e8543ca27629869a6287ac20e55e542ac0f094d336b988c72db570fe913d408e"
+        },
+        {
+            "path": "release/Qt5Widgets.dll",
+            "url": "http://[::]:8080/game/release/Qt5Widgets.dll",
+            "size": 8623912,
+            "hash": "90fe759952447724da52351e7bcee6f51248b5d9577ab39f22bfd548c8931de9"
+        },
+        {
+            "path": "release/iconengines/qsvgicon.dll",
+            "url": "http://[::]:8080/game/release/iconengines/qsvgicon.dll",
+            "size": 99200,
+            "hash": "4be49c66b75913d301e1c81dbc344e038346c1ccd0b0e595de538e9b41739596"
+        },
+        {
+            "path": "release/imageformats/qgif.dll",
+            "url": "http://[::]:8080/game/release/imageformats/qgif.dll",
+            "size": 79072,
+            "hash": "8419160e1370b26fae3c10d1a65bb8f2b774eafafdb1df59538d30bf205d460f"
+        },
+        {
+            "path": "release/imageformats/qicns.dll",
+            "url": "http://[::]:8080/game/release/imageformats/qicns.dll",
+            "size": 98008,
+            "hash": "c58ef01233af5108a0590b64d2bd436890c49017acbb15e92a3e8594c41ae351"
+        },
+        {
+            "path": "release/imageformats/qico.dll",
+            "url": "http://[::]:8080/game/release/imageformats/qico.dll",
+            "size": 83816,
+            "hash": "db4852797c7348489a3ce1286b2bcebf95c6ff4732734a5416848c776aebabbc"
+        },
+        {
+            "path": "release/imageformats/qjpeg.dll",
+            "url": "http://[::]:8080/game/release/imageformats/qjpeg.dll",
+            "size": 485632,
+            "hash": "36e981ecf61725216d21dfcca781e741608df04c20f354f0a10cd31370a02213"
+        },
+        {
+            "path": "release/imageformats/qsvg.dll",
+            "url": "http://[::]:8080/game/release/imageformats/qsvg.dll",
+            "size": 74448,
+            "hash": "dbe9c18fe7396b78146e840516547d6e90a2b4d8af241323018442123ecf58c1"
+        },
+        {
+            "path": "release/imageformats/qtga.dll",
+            "url": "http://[::]:8080/game/release/imageformats/qtga.dll",
+            "size": 71392,
+            "hash": "e204c012714439c3b58a92009babd381cba78c98356a38d31a5d8f9de8d0ef68"
+        },
+        {
+            "path": "release/imageformats/qtiff.dll",
+            "url": "http://[::]:8080/game/release/imageformats/qtiff.dll",
+            "size": 527432,
+            "hash": "f4af47fc36888cbc71896af7f339866a62ffaf14d368e6d49cb8aebd87d907b2"
+        },
+        {
+            "path": "release/imageformats/qwbmp.dll",
+            "url": "http://[::]:8080/game/release/imageformats/qwbmp.dll",
+            "size": 69736,
+            "hash": "5a04cc5c750bd1d907434b76a0ec4aeb7de935ace4bba57c52cf49fd2df7c9bc"
+        },
+        {
+            "path": "release/imageformats/qwebp.dll",
+            "url": "http://[::]:8080/game/release/imageformats/qwebp.dll",
+            "size": 681920,
+            "hash": "67b3986597d1f9417fe6f92a33e3ad17d350c9094335f96bb1243ca3ceafa10b"
+        },
+        {
+            "path": "release/platforms/qwindows.dll",
+            "url": "http://[::]:8080/game/release/platforms/qwindows.dll",
+            "size": 2849024,
+            "hash": "8f462fd49888e422bb459628afe97a7a856f51bc8408c91f6175d77aa978b605"
+        },
+        {
+            "path": "release/styles/qwindowsvistastyle.dll",
+            "url": "http://[::]:8080/game/release/styles/qwindowsvistastyle.dll",
+            "size": 310752,
+            "hash": "310e4c2627425723be26f9fea2c453cedeccbf46ad053369105ffcd5014bdbbb"
+        },
+        {
+            "path": "release/translations/qt_ar.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_ar.qm",
+            "size": 160010,
+            "hash": "820eb8876a61022b371d557eebd83a99a3872c6e93acbf3e98026dfcb3ce8efb"
+        },
+        {
+            "path": "release/translations/qt_bg.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_bg.qm",
+            "size": 165327,
+            "hash": "47f5749032c655f8399563728b8e5591b796aababb631d0bca9f18d74f4ed6f0"
+        },
+        {
+            "path": "release/translations/qt_ca.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_ca.qm",
+            "size": 184024,
+            "hash": "44c6b11b0f7bf6b6423d03089bcb603da37cb9b46ba7b10b7dc07f75fdf9708f"
+        },
+        {
+            "path": "release/translations/qt_cs.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_cs.qm",
+            "size": 174691,
+            "hash": "86e174eff79f096d81146860dd5ca9e946c643a3464c7da8919c972747b8df09"
+        },
+        {
+            "path": "release/translations/qt_da.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_da.qm",
+            "size": 174098,
+            "hash": "423e88732439997deb776f45f1b808f446f8023ab25fa925e949ec27724ab7e0"
+        },
+        {
+            "path": "release/translations/qt_de.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_de.qm",
+            "size": 214049,
+            "hash": "ae34d874bd5a6d11a2eee605e07a7c6db2ffdbc998ceb8cfb7c346dd914332bb"
+        },
+        {
+            "path": "release/translations/qt_en.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_en.qm",
+            "size": 23,
+            "hash": "307cef95dd5b36ff215055d427e1885b7fc3650c9224cf76d63056545996ff60"
+        },
+        {
+            "path": "release/translations/qt_es.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_es.qm",
+            "size": 165160,
+            "hash": "f6a0734903bbfcd9fd447fbcfd7ad6b9bbea50d038dc9388038c9ecfc13752a4"
+        },
+        {
+            "path": "release/translations/qt_fi.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_fi.qm",
+            "size": 179934,
+            "hash": "d04666a656680be2756b58ce45db175b846c5928eb6af62dba841444dd10e03a"
+        },
+        {
+            "path": "release/translations/qt_fr.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_fr.qm",
+            "size": 166157,
+            "hash": "7d40eaa90d9094ce548a41482b496ec494396a82361d4f3d031756118ed042d2"
+        },
+        {
+            "path": "release/translations/qt_gd.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_gd.qm",
+            "size": 189570,
+            "hash": "d1c0717546502ab3d243487aefb22a073a4bff8413ad51f7a6235fc722e76c82"
+        },
+        {
+            "path": "release/translations/qt_he.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_he.qm",
+            "size": 138680,
+            "hash": "19a8f435880328f9ccda4fecdfc20bac7afae589c07d0e2b5563366e908ac8e3"
+        },
+        {
+            "path": "release/translations/qt_hu.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_hu.qm",
+            "size": 160484,
+            "hash": "d8dfc2277fcf7086bdb1f22fa22ef33371f71cc2ca9c378542ff9c318197fcbe"
+        },
+        {
+            "path": "release/translations/qt_it.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_it.qm",
+            "size": 161129,
+            "hash": "54bdd9856e6007b443f553f03b5b83bca9f08595bf18d3293663517f04e89333"
+        },
+        {
+            "path": "release/translations/qt_ja.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_ja.qm",
+            "size": 129904,
+            "hash": "f0ee03c9936b459cc9bdf184df9b7efad98d40ab7b99e89166a42e019a0ec0ea"
+        },
+        {
+            "path": "release/translations/qt_ko.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_ko.qm",
+            "size": 131255,
+            "hash": "487755eb0841d47748ccbc2ab8d255ca12277dd0fb687d6ddc730982f8da77ba"
+        },
+        {
+            "path": "release/translations/qt_lv.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_lv.qm",
+            "size": 153598,
+            "hash": "257d1201da42c19c34ea0a5f0dfbba3d438fc273a7d5b5b97cd13196e963ed28"
+        },
+        {
+            "path": "release/translations/qt_pl.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_pl.qm",
+            "size": 162972,
+            "hash": "99a5a122dbf2e522f99f2bf83201a144e9e340d7b3dd8e16dd785a8cc79fbd69"
+        },
+        {
+            "path": "release/translations/qt_ru.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_ru.qm",
+            "size": 199043,
+            "hash": "aa132ed04f8b4e19eb72a25cff963d3f6df8bbdc58e99f3580e9014296eaf7b2"
+        },
+        {
+            "path": "release/translations/qt_sk.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_sk.qm",
+            "size": 125753,
+            "hash": "0144819728779d0861859f5451cd5588b2f2def611edeb77b38655d62bdbdf86"
+        },
+        {
+            "path": "release/translations/qt_uk.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_uk.qm",
+            "size": 158231,
+            "hash": "fd4a436733637cb4759cdb024f0c7d891e8075be46f79796077180a9ff488d27"
+        },
+        {
+            "path": "release/translations/qt_zh_TW.qm",
+            "url": "http://[::]:8080/game/release/translations/qt_zh_TW.qm",
+            "size": 127839,
+            "hash": "17e9e4871be60aa3d22c86ff990bc762bc81ea5690a68579ea062d8ed7f3d3d4"
+        }
+    ]
+}
