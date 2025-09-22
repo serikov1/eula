@@ -1,315 +1,315 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "files": [
         {
             "path": "release/iconengines/qsvgicon.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/1c549a36c12f083beb4cc3b7b2cfcedb5d345c868fabc475c9935ecf5b329ba9/68d18976/kMmDj0M82VsGs_11sU6ze5F_RQ-i0kVLSQEFwAIq-SW87Lro3ztAFwfLA9NKi_ITqH0_RY5bvcRjbIeuQwXalQ%3D%3D?uid=1130000060647024&filename=qsvgicon.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=99200&hid=a75b2dd7cce6bae250d53a92a4cd4097&media_type=executable&tknv=v3&etag=c8b2a88d9a6ebf81614be0eea3d14d55&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/476a6f756710ac4edf06f1f79f93bb092e025b75bbfad602921c2573f425b0fe/68d1a9af/kMmDj0M82VsGs_11sU6ze5F_RQ-i0kVLSQEFwAIq-SW87Lro3ztAFwfLA9NKi_ITqH0_RY5bvcRjbIeuQwXalQ%3D%3D?uid=1130000060647024&filename=qsvgicon.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=99200&hid=a75b2dd7cce6bae250d53a92a4cd4097&media_type=executable&tknv=v3&etag=c8b2a88d9a6ebf81614be0eea3d14d55",
             "size": 99200,
             "hash": "4be49c66b75913d301e1c81dbc344e038346c1ccd0b0e595de538e9b41739596"
         },
         {
             "path": "release/imageformats/qgif.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/e1b24c926d98b9bbd2aaa5a2b765835969e618976d69b25febbef07c13d5b512/68d18978/oo2Pr-rO6druIpfEhwtV-oZSI63lryBCxTBuNJAArObYqrMy937RemSNvrw-BHWly5Q4DfPsuIZl86G0tNCdtQ%3D%3D?uid=1130000060647024&filename=qgif.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=79072&hid=eeebf10c9e44de2cd6e3cfa1d156d9df&media_type=executable&tknv=v3&etag=8e27bb60c136987ea9ea8b4db059405a&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/04d4a6901c9a6de9cd3bceabbc04ba4ee633dcf7ffcc9afa51285efe9fe75704/68d1a9b0/oo2Pr-rO6druIpfEhwtV-oZSI63lryBCxTBuNJAArObYqrMy937RemSNvrw-BHWly5Q4DfPsuIZl86G0tNCdtQ%3D%3D?uid=1130000060647024&filename=qgif.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=79072&hid=eeebf10c9e44de2cd6e3cfa1d156d9df&media_type=executable&tknv=v3&etag=8e27bb60c136987ea9ea8b4db059405a",
             "size": 79072,
             "hash": "8419160e1370b26fae3c10d1a65bb8f2b774eafafdb1df59538d30bf205d460f"
         },
         {
             "path": "release/imageformats/qicns.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/913835e95b4ba66def671116e13dc215c52e09ba5fbc8766120e9c3b513f6fb4/68d18978/oo2Pr-rO6druIpfEhwtV-suJ7jRPqqUUbT3IHGlbX7S8ssBbjPxKa7nEwJNuIQ3kS0zY1rEjd9nad4Txsc0Cwg%3D%3D?uid=1130000060647024&filename=qicns.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=98008&hid=1784b04da2559323891b7549179a33a9&media_type=executable&tknv=v3&etag=e701b5835937aeb466cb6b1db3e51bcc&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/b7777d61df9737fa5a92394693266b359bf4eea60b9cb191d1f7ff088c84d72c/68d1a9b1/oo2Pr-rO6druIpfEhwtV-suJ7jRPqqUUbT3IHGlbX7S8ssBbjPxKa7nEwJNuIQ3kS0zY1rEjd9nad4Txsc0Cwg%3D%3D?uid=1130000060647024&filename=qicns.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=98008&hid=1784b04da2559323891b7549179a33a9&media_type=executable&tknv=v3&etag=e701b5835937aeb466cb6b1db3e51bcc",
             "size": 98008,
             "hash": "c58ef01233af5108a0590b64d2bd436890c49017acbb15e92a3e8594c41ae351"
         },
         {
             "path": "release/imageformats/qico.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/87abcf0b2448ddf94bca5757d6fcfb688df2851812d71cc4165b0f2fce27cbda/68d18978/oo2Pr-rO6druIpfEhwtV-v5RcA09DDeoBGWkKsuVPv16z_UtIb26WURSBkLcSLqDQq9WUjHag_oROZ3kx-DWrw%3D%3D?uid=1130000060647024&filename=qico.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fvnd.microsoft.portable-executable&owner_uid=1130000060647024&fsize=83816&hid=0fe5ae987ef42ebdf8de166abda7bcf1&media_type=executable&tknv=v3&etag=948e263984b42f1d4522c4461f8e8a38&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/f4cd474d6569c32815dc88ad2df5b38dda6236e80f5e8f317ff95518443c6ff3/68d1a9b2/oo2Pr-rO6druIpfEhwtV-v5RcA09DDeoBGWkKsuVPv16z_UtIb26WURSBkLcSLqDQq9WUjHag_oROZ3kx-DWrw%3D%3D?uid=1130000060647024&filename=qico.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fvnd.microsoft.portable-executable&owner_uid=1130000060647024&fsize=83816&hid=0fe5ae987ef42ebdf8de166abda7bcf1&media_type=executable&tknv=v3&etag=948e263984b42f1d4522c4461f8e8a38",
             "size": 83816,
             "hash": "db4852797c7348489a3ce1286b2bcebf95c6ff4732734a5416848c776aebabbc"
         },
         {
             "path": "release/imageformats/qjpeg.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/702dc08192a95e8904334c3f5be8649bba28f36768fb90b4e055267ce8f9cb85/68d18978/oo2Pr-rO6druIpfEhwtV-sNfG5NRi5nAZZVC0tpTSHbeo8UAbgxu53hUWIlo6S3sXjR1O6GfKuo0ttTXfQbaxQ%3D%3D?uid=1130000060647024&filename=qjpeg.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=485632&hid=d02f449ecacba88bf1dd959f0634efab&media_type=executable&tknv=v3&etag=85f29556c0b5d0de842c8ccbdb0cc7ca&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/fa8d156d11722afbc82c203dcd66669fcc20c26aef8420d05b5fef745a45e10f/68d1a9b3/oo2Pr-rO6druIpfEhwtV-sNfG5NRi5nAZZVC0tpTSHbeo8UAbgxu53hUWIlo6S3sXjR1O6GfKuo0ttTXfQbaxQ%3D%3D?uid=1130000060647024&filename=qjpeg.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=485632&hid=d02f449ecacba88bf1dd959f0634efab&media_type=executable&tknv=v3&etag=85f29556c0b5d0de842c8ccbdb0cc7ca",
             "size": 485632,
             "hash": "36e981ecf61725216d21dfcca781e741608df04c20f354f0a10cd31370a02213"
         },
         {
             "path": "release/imageformats/qsvg.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/8ca9dbfa7d4c54b50c379cee12a2d4b8bc638e4bcb621b7742e428f54f247f5f/68d18978/oo2Pr-rO6druIpfEhwtV-tO3NLwiztr0ZzvwekOxgUG4xlVv5WcX-9xJdZmZhkNXvB3krKgC33rrK_ETCzTqSA%3D%3D?uid=1130000060647024&filename=qsvg.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=74448&hid=fcf38adc8aca64a95bb0aadf6e57879b&media_type=executable&tknv=v3&etag=24a1c9f886f50c5bbb47d5c93a06987f&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/eefdd6dcbe9b2045746e50472e42c84949172aa859922c77176bb0c1efbf10bf/68d1a9b4/oo2Pr-rO6druIpfEhwtV-tO3NLwiztr0ZzvwekOxgUG4xlVv5WcX-9xJdZmZhkNXvB3krKgC33rrK_ETCzTqSA%3D%3D?uid=1130000060647024&filename=qsvg.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=74448&hid=fcf38adc8aca64a95bb0aadf6e57879b&media_type=executable&tknv=v3&etag=24a1c9f886f50c5bbb47d5c93a06987f",
             "size": 74448,
             "hash": "dbe9c18fe7396b78146e840516547d6e90a2b4d8af241323018442123ecf58c1"
         },
         {
             "path": "release/imageformats/qtga.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/8ce70c6dfcaac375d633e23ac4b4cad8a2538482062d137feeac3f46b90e295a/68d18978/oo2Pr-rO6druIpfEhwtV-uB8nJsGphSeGEguTO10dNtJ5N1-UHB6uDKTFJso0QKaKB583PmX4bxBzG2j2jIh5w%3D%3D?uid=1130000060647024&filename=qtga.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=71392&hid=aa3e81960ff960185f27ba318f7d7ca8&media_type=executable&tknv=v3&etag=4a26db60eee72b1bf778da7f5617afea&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/bb176b2134fc5f539ba1a348328580c2b3bead68d9901beaf672ccce457d2715/68d1a9b5/oo2Pr-rO6druIpfEhwtV-uB8nJsGphSeGEguTO10dNtJ5N1-UHB6uDKTFJso0QKaKB583PmX4bxBzG2j2jIh5w%3D%3D?uid=1130000060647024&filename=qtga.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=71392&hid=aa3e81960ff960185f27ba318f7d7ca8&media_type=executable&tknv=v3&etag=4a26db60eee72b1bf778da7f5617afea",
             "size": 71392,
             "hash": "e204c012714439c3b58a92009babd381cba78c98356a38d31a5d8f9de8d0ef68"
         },
         {
             "path": "release/imageformats/qtiff.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/331ade45cad80d713360f3dcd361798fea1e7f20ff5d5d72041bc0effe2d3cc3/68d18978/oo2Pr-rO6druIpfEhwtV-h_eRa6VlxL8l36jHSJaIxKQlv43HcfH-TcyZFa0zpgS73WQzKFa20tmocCel2gIlA%3D%3D?uid=1130000060647024&filename=qtiff.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=527432&hid=1effd1cc39867235cbf9d60f3685270f&media_type=executable&tknv=v3&etag=3e10c5ec38b9478bb26bea103564d18d&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/c1d37d4cea24185310be8085acf655ef5766b4e8d7b662302c9982ab6b54f25f/68d1a9b5/oo2Pr-rO6druIpfEhwtV-h_eRa6VlxL8l36jHSJaIxKQlv43HcfH-TcyZFa0zpgS73WQzKFa20tmocCel2gIlA%3D%3D?uid=1130000060647024&filename=qtiff.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=527432&hid=1effd1cc39867235cbf9d60f3685270f&media_type=executable&tknv=v3&etag=3e10c5ec38b9478bb26bea103564d18d",
             "size": 527432,
             "hash": "f4af47fc36888cbc71896af7f339866a62ffaf14d368e6d49cb8aebd87d907b2"
         },
         {
             "path": "release/imageformats/qwbmp.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/0a1f6d4b272620d3621b4bdbd971fd16c14863e4fc9ed61a0b84bc34fad7ed73/68d18978/oo2Pr-rO6druIpfEhwtV-q_Kd_oADJhLjkgNgIoj2zaFk4J6IW1u0xN6-7MEcspxiSkDCANXN2uHTWA1rqmqNQ%3D%3D?uid=1130000060647024&filename=qwbmp.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=69736&hid=8a9288b02e050d2439519009ad21913a&media_type=executable&tknv=v3&etag=41a067c3e5f1f9cd311d2691a38db489&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/9db9750e64af6bdff4aa92aa28a0f7effd3d0a8fe500986351c71a491d008461/68d1a9b6/oo2Pr-rO6druIpfEhwtV-q_Kd_oADJhLjkgNgIoj2zaFk4J6IW1u0xN6-7MEcspxiSkDCANXN2uHTWA1rqmqNQ%3D%3D?uid=1130000060647024&filename=qwbmp.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=69736&hid=8a9288b02e050d2439519009ad21913a&media_type=executable&tknv=v3&etag=41a067c3e5f1f9cd311d2691a38db489",
             "size": 69736,
             "hash": "5a04cc5c750bd1d907434b76a0ec4aeb7de935ace4bba57c52cf49fd2df7c9bc"
         },
         {
             "path": "release/imageformats/qwebp.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/a616b2c4a6fb31074315543cf993bc0a2470e9df9b617fb394b991dd91caed84/68d18978/oo2Pr-rO6druIpfEhwtV-iW8UVqu-C2K-PlXjlesXQqsdyqwk25R9am9Xxdd7AGxb9DMjyL6UpLpiSxqbyFCHQ%3D%3D?uid=1130000060647024&filename=qwebp.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=681920&hid=08bbe3d346882c88880faa263e65c3b4&media_type=executable&tknv=v3&etag=ac7052297e2780d00391a36c115f2ea4&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/967b9deaedc33c83a058d4a3912e57ab541f8d59fcec2561155c9f4b95d0c884/68d1a9b7/oo2Pr-rO6druIpfEhwtV-iW8UVqu-C2K-PlXjlesXQqsdyqwk25R9am9Xxdd7AGxb9DMjyL6UpLpiSxqbyFCHQ%3D%3D?uid=1130000060647024&filename=qwebp.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=681920&hid=08bbe3d346882c88880faa263e65c3b4&media_type=executable&tknv=v3&etag=ac7052297e2780d00391a36c115f2ea4",
             "size": 681920,
             "hash": "67b3986597d1f9417fe6f92a33e3ad17d350c9094335f96bb1243ca3ceafa10b"
         },
         {
             "path": "release/platforms/qwindows.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/2ba9759d847074b8be9cf64529b8a07e7ba1f1a5059b5c7e6f2098f70b5ceed3/68d18979/oo2Pr-rO6druIpfEhwtV-lSPvKxNS7sNcr4E9T5olKThzODqj5gf8Wnm6tVuJX3tWckioAfJl8DZw_GtMHg1JQ%3D%3D?uid=1130000060647024&filename=qwindows.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=2849024&hid=43088f06e9db1bb214439b63470edf20&media_type=executable&tknv=v3&etag=a7f32cab76df9afcd069c428c711131f&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/0c2ffa5e978feb44796e69abd5cbda9acbae9297047c35c06735fa1c28b5ed9d/68d1a9b9/oo2Pr-rO6druIpfEhwtV-lSPvKxNS7sNcr4E9T5olKThzODqj5gf8Wnm6tVuJX3tWckioAfJl8DZw_GtMHg1JQ%3D%3D?uid=1130000060647024&filename=qwindows.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=2849024&hid=43088f06e9db1bb214439b63470edf20&media_type=executable&tknv=v3&etag=a7f32cab76df9afcd069c428c711131f",
             "size": 2849024,
             "hash": "8f462fd49888e422bb459628afe97a7a856f51bc8408c91f6175d77aa978b605"
         },
         {
             "path": "release/styles/qwindowsvistastyle.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/49add6ade234c8b002e3871fc5b3c97da01b10a437c0fb68efbae075f9a31fd6/68d1897a/kMmDj0M82VsGs_11sU6zey6nAoXWuoBR7ti-Gw6huge1stk8aPgMqbjnXmnfYSM1GKxsQzhAuu_0VkKZJo6hQQ%3D%3D?uid=1130000060647024&filename=qwindowsvistastyle.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=310752&hid=d01b71da5f55dda75dc9b9d3a79a26ac&media_type=executable&tknv=v3&etag=eee91acc62599b1e1d596e5460763be3&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/857d839ff0c5b9771ebb8e53834f86bba86d709f07093936c22dccce2a02ed1f/68d1a9bb/kMmDj0M82VsGs_11sU6zey6nAoXWuoBR7ti-Gw6huge1stk8aPgMqbjnXmnfYSM1GKxsQzhAuu_0VkKZJo6hQQ%3D%3D?uid=1130000060647024&filename=qwindowsvistastyle.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=310752&hid=d01b71da5f55dda75dc9b9d3a79a26ac&media_type=executable&tknv=v3&etag=eee91acc62599b1e1d596e5460763be3",
             "size": 310752,
             "hash": "310e4c2627425723be26f9fea2c453cedeccbf46ad053369105ffcd5014bdbbb"
         },
         {
             "path": "release/translations/qt_ar.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/fb38723f30ac73dbeea72f416f1a1cc40d6ebdcd21ad2d044951557823aa048c/68d1897a/fKqInKw3d7bLFOeFnMGnhFhBzp_9_luu6hBsSwW5wRNSDqq-VYCOPSwFsyK3IJGltTVfgqZACSqGMH_bJVibKsX5B6f-5Z3kcdiz7EPog_2r8npumZHI4midPdWhecNq?uid=1130000060647024&filename=qt_ar.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=160010&hid=da994bb24ff473241aa9a5dd66406fb5&media_type=executable&tknv=v3&etag=e7ec8b6e07d62634777dbcb47bd611d3&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/8caf0a84b9008da327f8bc9b8b6294ff2a5516ef1ac9e9fa55b8f7b1cffccdb1/68d1a9bd/fKqInKw3d7bLFOeFnMGnhFhBzp_9_luu6hBsSwW5wRNSDqq-VYCOPSwFsyK3IJGltTVfgqZACSqGMH_bJVibKsX5B6f-5Z3kcdiz7EPog_2r8npumZHI4midPdWhecNq?uid=1130000060647024&filename=qt_ar.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=160010&hid=da994bb24ff473241aa9a5dd66406fb5&media_type=executable&tknv=v3&etag=e7ec8b6e07d62634777dbcb47bd611d3",
             "size": 160010,
             "hash": "820eb8876a61022b371d557eebd83a99a3872c6e93acbf3e98026dfcb3ce8efb"
         },
         {
             "path": "release/translations/qt_bg.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/c3bfc69bcf433a88dfcc75c756169e4c62d008f2955111ee8ba9bbb84252a53a/68d1897a/NuSg2RlvgaVnVCahbmZlGzr_LCLAZtVPLqdC2fbS8cXY2dbx6NUqLOfEPlvxvsiVJsJNys5pPMub9j2Gg-0cHA%3D%3D?uid=1130000060647024&filename=qt_bg.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=165327&hid=f08ab9fedf559678d0e1916c00be660e&media_type=executable&tknv=v3&etag=6bcb7bf161bbe019cfaeee7d331e3e79&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/99c629c08fcd47baf49c0af68ada09b43def23d93db0d610ac9157b8fb5a2466/68d1a9be/NuSg2RlvgaVnVCahbmZlGzr_LCLAZtVPLqdC2fbS8cXY2dbx6NUqLOfEPlvxvsiVJsJNys5pPMub9j2Gg-0cHA%3D%3D?uid=1130000060647024&filename=qt_bg.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=165327&hid=f08ab9fedf559678d0e1916c00be660e&media_type=executable&tknv=v3&etag=6bcb7bf161bbe019cfaeee7d331e3e79",
             "size": 165327,
             "hash": "47f5749032c655f8399563728b8e5591b796aababb631d0bca9f18d74f4ed6f0"
         },
         {
             "path": "release/translations/qt_ca.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/146670a881fa5ddd44249ef44424a52ed205a1de13c081e2fd811cc20bcbfb2c/68d1897a/fKqInKw3d7bLFOeFnMGnhJDQAxjrViBkrxFHEGQUEZbd5jsYE6Ty4nAV3uUSz-HG6L_rrGvSw8kJc5m9yAJN9IBKADDqm2TGR9I71tWulpyr8npumZHI4midPdWhecNq?uid=1130000060647024&filename=qt_ca.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=184024&hid=c24fc4800623e72a02a9e781975d5818&media_type=executable&tknv=v3&etag=d1d7ab4da8bc6a6097af2db42c9bd14e&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/ddf451d22790f746be1211bea816f4ede2679741420d8e567bb15879c8bde778/68d1a9bf/fKqInKw3d7bLFOeFnMGnhJDQAxjrViBkrxFHEGQUEZbd5jsYE6Ty4nAV3uUSz-HG6L_rrGvSw8kJc5m9yAJN9IBKADDqm2TGR9I71tWulpyr8npumZHI4midPdWhecNq?uid=1130000060647024&filename=qt_ca.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=184024&hid=c24fc4800623e72a02a9e781975d5818&media_type=executable&tknv=v3&etag=d1d7ab4da8bc6a6097af2db42c9bd14e",
             "size": 184024,
             "hash": "44c6b11b0f7bf6b6423d03089bcb603da37cb9b46ba7b10b7dc07f75fdf9708f"
         },
         {
             "path": "release/translations/qt_cs.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/56dc695d1fa5b500d3e5a4d4099efe4cfe9b684f291bdf6115cf97f54764f33d/68d1897a/pwGeSlVnplYdE2dlDa20_1P_WrmT9kaETgbSQJX-v1oIYc_m2mjleZklqNgTTqIcNAHLMFN12EhrMaCqJGvQPg%3D%3D?uid=1130000060647024&filename=qt_cs.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=174691&hid=7e388145c6da77e9edea4437be5ebe8a&media_type=executable&tknv=v3&etag=987e045e06aeba29a8e05a074e6bdb91&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/4f47520f737b8f8f7f4995fc5a5e0a54fe5fcedfcfb2bc1ac977b7deb0d96d40/68d1a9c0/pwGeSlVnplYdE2dlDa20_1P_WrmT9kaETgbSQJX-v1oIYc_m2mjleZklqNgTTqIcNAHLMFN12EhrMaCqJGvQPg%3D%3D?uid=1130000060647024&filename=qt_cs.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=174691&hid=7e388145c6da77e9edea4437be5ebe8a&media_type=executable&tknv=v3&etag=987e045e06aeba29a8e05a074e6bdb91",
             "size": 174691,
             "hash": "86e174eff79f096d81146860dd5ca9e946c643a3464c7da8919c972747b8df09"
         },
         {
             "path": "release/translations/qt_da.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/afc8795aeb5c375e0a54ef8551222667faf9fd1d1adb8c10e14d7a927a2ca368/68d1897a/A6WRutsPKgfflFejkDfO4_xQdgDvyAoDQuKiRlAxJMJJTYZ6Q5J9FdpwP8j7epWPTCMCd71thfcWMdtqrgbeEA%3D%3D?uid=1130000060647024&filename=qt_da.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=174098&hid=ba733721622fbc37808d426e2782d8eb&media_type=executable&tknv=v3&etag=d541cc7f5ea2248e72d2e86ce6cbfa45&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/d1615f5f5234db947acecbff1d33d0138f63610df49708fd7b6a76eec32ab929/68d1a9c1/A6WRutsPKgfflFejkDfO4_xQdgDvyAoDQuKiRlAxJMJJTYZ6Q5J9FdpwP8j7epWPTCMCd71thfcWMdtqrgbeEA%3D%3D?uid=1130000060647024&filename=qt_da.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=174098&hid=ba733721622fbc37808d426e2782d8eb&media_type=executable&tknv=v3&etag=d541cc7f5ea2248e72d2e86ce6cbfa45",
             "size": 174098,
             "hash": "423e88732439997deb776f45f1b808f446f8023ab25fa925e949ec27724ab7e0"
         },
         {
             "path": "release/translations/qt_de.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/c1b105457714524db3f01fcf1e4dca109bccb9766f854681c4bdc0751706d8a5/68d1897a/o0w1t7ksRPJAbUTLrNpHOd1WJbC2FDX0oIR0bZbmdWeWHR6hZbG09-7Q3qlpRy-JT6igTTXao-20uA4r01C6yg%3D%3D?uid=1130000060647024&filename=qt_de.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=214049&hid=4950a5aeaddadb41e8270c44e88d67ee&media_type=executable&tknv=v3&etag=73911d71db30de43f856d4ea9e911837&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/3511ade3e91ea9d3c5030e893aa7fd5f6147476dce69f08a655f01f61d999f47/68d1a9c2/o0w1t7ksRPJAbUTLrNpHOd1WJbC2FDX0oIR0bZbmdWeWHR6hZbG09-7Q3qlpRy-JT6igTTXao-20uA4r01C6yg%3D%3D?uid=1130000060647024&filename=qt_de.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=214049&hid=4950a5aeaddadb41e8270c44e88d67ee&media_type=executable&tknv=v3&etag=73911d71db30de43f856d4ea9e911837",
             "size": 214049,
             "hash": "ae34d874bd5a6d11a2eee605e07a7c6db2ffdbc998ceb8cfb7c346dd914332bb"
         },
         {
             "path": "release/translations/qt_en.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/a919ac0848fadfb6dd642e8f0edb53236547b94ed231cd3e66a4060733406bfb/68d1897a/E-ddZCkjm6_tl8CzW_AjFpzQgS25G31foMe0u6tdcyypS2BlfGs3kmS7HKxLOJUKUHPLtkofyQaVvht5LGi8CQ%3D%3D?uid=1130000060647024&filename=qt_en.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=23&hid=5ba87e2abd43ed89b9a7a353a6b2b1ee&media_type=executable&tknv=v3&etag=4aef4415f2e976b2cc6f24b877804a57&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/0ca70e331b73673310a86a9462d9ec34a59eeb3b6a2603f9ecfd68bc7c788a12/68d1a9c3/E-ddZCkjm6_tl8CzW_AjFpzQgS25G31foMe0u6tdcyypS2BlfGs3kmS7HKxLOJUKUHPLtkofyQaVvht5LGi8CQ%3D%3D?uid=1130000060647024&filename=qt_en.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=23&hid=5ba87e2abd43ed89b9a7a353a6b2b1ee&media_type=executable&tknv=v3&etag=4aef4415f2e976b2cc6f24b877804a57",
             "size": 23,
             "hash": "307cef95dd5b36ff215055d427e1885b7fc3650c9224cf76d63056545996ff60"
         },
         {
             "path": "release/translations/qt_es.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/46c4572470d03ef80fcf0a86232a10f3b342b9338e4f61b75480fb36254e5053/68d1897a/pwGeSlVnplYdE2dlDa20_8h1PKYGj6hpqVcxanNznVmikay-A5HHfChuY_UKYPge7adMKeJ6n_xeQbtP2MhhYQ%3D%3D?uid=1130000060647024&filename=qt_es.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=165160&hid=f92e58df3c5f3d0608ea5105f3718f4e&media_type=executable&tknv=v3&etag=7479d957c5309aedd4f58e4556590f69&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/aa5bb0d677fcc4a361a93c903d4e8a1f5bde85ab9163f10b2d762f733273d81c/68d1a9c4/pwGeSlVnplYdE2dlDa20_8h1PKYGj6hpqVcxanNznVmikay-A5HHfChuY_UKYPge7adMKeJ6n_xeQbtP2MhhYQ%3D%3D?uid=1130000060647024&filename=qt_es.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=165160&hid=f92e58df3c5f3d0608ea5105f3718f4e&media_type=executable&tknv=v3&etag=7479d957c5309aedd4f58e4556590f69",
             "size": 165160,
             "hash": "f6a0734903bbfcd9fd447fbcfd7ad6b9bbea50d038dc9388038c9ecfc13752a4"
         },
         {
             "path": "release/translations/qt_fi.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/79cee1213209099addfb934ba2bf110f3d4316ef3cf0099b88af1de463690277/68d1897a/A6WRutsPKgfflFejkDfO47iiWqvLPFT6A15DyZ_L2Z9W36sloIfs6F0xEtKQ2A3YnsDeb31QiRSLwS2X3fK6fg%3D%3D?uid=1130000060647024&filename=qt_fi.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=179934&hid=a094edc8795adfac7d4b18e1a6b6019e&media_type=executable&tknv=v3&etag=ff556242e6061dac90683223351abd61&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/4e6615c4a2e8977d76f2cefe4b227974a660cc9bbd910ba5740146497a188282/68d1a9c5/A6WRutsPKgfflFejkDfO47iiWqvLPFT6A15DyZ_L2Z9W36sloIfs6F0xEtKQ2A3YnsDeb31QiRSLwS2X3fK6fg%3D%3D?uid=1130000060647024&filename=qt_fi.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=179934&hid=a094edc8795adfac7d4b18e1a6b6019e&media_type=executable&tknv=v3&etag=ff556242e6061dac90683223351abd61",
             "size": 179934,
             "hash": "d04666a656680be2756b58ce45db175b846c5928eb6af62dba841444dd10e03a"
         },
         {
             "path": "release/translations/qt_fr.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/29fbee1774c19e2ac2078fe5a4b3e8b8f07953bdbb8430044153b24838d994f0/68d1897a/n3Er3jMFuVGqHAoqGjDhv2GIxnvi4z1IZJ5d9V2WQZ4-XKT23wiQdnynLm0WDHxjHV5COe8HucfWYH5tEYQDLQ%3D%3D?uid=1130000060647024&filename=qt_fr.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=166157&hid=1e140aad8ba26525b4a61a8d78dabc60&media_type=executable&tknv=v3&etag=37f2ac5cf8ea04844351ae0bcf8420fb&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/8f555f70aaf0636fe7e01fcf5bcc32cba99f0f6f04859c54378cf3477cbe2bff/68d1a9c6/n3Er3jMFuVGqHAoqGjDhv2GIxnvi4z1IZJ5d9V2WQZ4-XKT23wiQdnynLm0WDHxjHV5COe8HucfWYH5tEYQDLQ%3D%3D?uid=1130000060647024&filename=qt_fr.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=166157&hid=1e140aad8ba26525b4a61a8d78dabc60&media_type=executable&tknv=v3&etag=37f2ac5cf8ea04844351ae0bcf8420fb",
             "size": 166157,
             "hash": "7d40eaa90d9094ce548a41482b496ec494396a82361d4f3d031756118ed042d2"
         },
         {
             "path": "release/translations/qt_gd.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/1a9b397aab5091eaf9527f047e47dccde5758888aabcc477e64f7d1a3be4c839/68d1897a/m9v8L6ixz8NYuxd77V6AJ7NOd18lwOKoKgJK2Fp7_-9Kr0wb4qF6fDsV4rKTHTtVd5f-j9vWZG_bhDkr8ieb-A%3D%3D?uid=1130000060647024&filename=qt_gd.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=189570&hid=e7d4f646dc039c1d18b54dfe40ca53e7&media_type=executable&tknv=v3&etag=fd5046c815bc3e89fb327044a29236e4&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/04537b82a4d26f34521c5eb14d2c4cafa66c7f5bc5c0c6df6e54413137519389/68d1a9c7/m9v8L6ixz8NYuxd77V6AJ7NOd18lwOKoKgJK2Fp7_-9Kr0wb4qF6fDsV4rKTHTtVd5f-j9vWZG_bhDkr8ieb-A%3D%3D?uid=1130000060647024&filename=qt_gd.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=189570&hid=e7d4f646dc039c1d18b54dfe40ca53e7&media_type=executable&tknv=v3&etag=fd5046c815bc3e89fb327044a29236e4",
             "size": 189570,
             "hash": "d1c0717546502ab3d243487aefb22a073a4bff8413ad51f7a6235fc722e76c82"
         },
         {
             "path": "release/translations/qt_he.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/32ad239a7c01da298b5d49063c6dc2f32dbf9685e1b35842ddb4812b638d3351/68d1897a/epaAcnX4-CQ-OWJs6xelOGIqJii6MAJ8ecm8ENSH0kOA-P8c0J-ulv27594D0EeeRvJMSKzMKPvqZsZswAis4A%3D%3D?uid=1130000060647024&filename=qt_he.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=138680&hid=fedea427bb7c84096ce5ae91c4c6d62e&media_type=executable&tknv=v3&etag=6a8a53d365f564be4804b3f1167186ad&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/20147cab57bb1d80d56abcba907ab0cf3f5b70bbf977d1bfd531cd8e82599ede/68d1a9c8/epaAcnX4-CQ-OWJs6xelOGIqJii6MAJ8ecm8ENSH0kOA-P8c0J-ulv27594D0EeeRvJMSKzMKPvqZsZswAis4A%3D%3D?uid=1130000060647024&filename=qt_he.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=138680&hid=fedea427bb7c84096ce5ae91c4c6d62e&media_type=executable&tknv=v3&etag=6a8a53d365f564be4804b3f1167186ad",
             "size": 138680,
             "hash": "19a8f435880328f9ccda4fecdfc20bac7afae589c07d0e2b5563366e908ac8e3"
         },
         {
             "path": "release/translations/qt_hu.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/92e73c8f5ff9c73230362e27355574672651a31feaff0b7da0c39cac3a81db9d/68d1897a/a_w7qpN0Cs4BITfcXg3euVuFjUEgNhu2FB6tk814FSLvDnJ_kPYc2KOvWyY6I3Z6f8M423oFeSe8g8l28-uLRQ%3D%3D?uid=1130000060647024&filename=qt_hu.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=160484&hid=0502c1d2589a48b1b6cc96bc2be2893c&media_type=executable&tknv=v3&etag=fd8d6145ca463351f31d6550bcbd9263&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/f0f67c888f1faaac22b287fc4b200f78a80e1f6b818c96115385686587f12698/68d1a9c9/a_w7qpN0Cs4BITfcXg3euVuFjUEgNhu2FB6tk814FSLvDnJ_kPYc2KOvWyY6I3Z6f8M423oFeSe8g8l28-uLRQ%3D%3D?uid=1130000060647024&filename=qt_hu.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=160484&hid=0502c1d2589a48b1b6cc96bc2be2893c&media_type=executable&tknv=v3&etag=fd8d6145ca463351f31d6550bcbd9263",
             "size": 160484,
             "hash": "d8dfc2277fcf7086bdb1f22fa22ef33371f71cc2ca9c378542ff9c318197fcbe"
         },
         {
             "path": "release/translations/qt_it.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/531c063b295ee9d7ee9338cae43aee20cf4e5d298dc1c19794dfbfacc5f8c97e/68d1897a/j9XD0g3Njaf0QAMuae444KKIujH6qeyECcbDwN-3kCBN8Lf6G5VuKtym9WvYeyLVS9aBydNaDFNXx1JPQoqY2g%3D%3D?uid=1130000060647024&filename=qt_it.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=161129&hid=9427803e0d81c3fcbcdf404ed3f92457&media_type=executable&tknv=v3&etag=b183fe971035ada2e95401263c79aa3b&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/391b0ff304fb466ba7cd738f2e948c6fa9e4f1a6ee046d476b2669eaeef00bf2/68d1a9ca/j9XD0g3Njaf0QAMuae444KKIujH6qeyECcbDwN-3kCBN8Lf6G5VuKtym9WvYeyLVS9aBydNaDFNXx1JPQoqY2g%3D%3D?uid=1130000060647024&filename=qt_it.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=161129&hid=9427803e0d81c3fcbcdf404ed3f92457&media_type=executable&tknv=v3&etag=b183fe971035ada2e95401263c79aa3b",
             "size": 161129,
             "hash": "54bdd9856e6007b443f553f03b5b83bca9f08595bf18d3293663517f04e89333"
         },
         {
             "path": "release/translations/qt_ja.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/3b03f07c6cb1ab3daa284b76d95a56fa470a5cdaa9159cf90d5640e014c7819d/68d1897a/n1K64lYyYXUxYPh9KQhz_Gi1bzHiqoRzsJ8PjWtH80ZtjxaItf3shKbaw5equuRVFPezaxXf7v0TtgG7dswP8g%3D%3D?uid=1130000060647024&filename=qt_ja.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=129904&hid=5f122d4b83c1aefee202cf1e46eb2485&media_type=executable&tknv=v3&etag=1c0ab06b3388e79a2206cbfd28e374a2&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/5d8e099c2e9212141657fe6c313fd14e65d82581366d1a2c8836f34db29aacbe/68d1a9cb/n1K64lYyYXUxYPh9KQhz_Gi1bzHiqoRzsJ8PjWtH80ZtjxaItf3shKbaw5equuRVFPezaxXf7v0TtgG7dswP8g%3D%3D?uid=1130000060647024&filename=qt_ja.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=129904&hid=5f122d4b83c1aefee202cf1e46eb2485&media_type=executable&tknv=v3&etag=1c0ab06b3388e79a2206cbfd28e374a2",
             "size": 129904,
             "hash": "f0ee03c9936b459cc9bdf184df9b7efad98d40ab7b99e89166a42e019a0ec0ea"
         },
         {
             "path": "release/translations/qt_ko.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/4e200bf5a75481f860097cf0a0c18e22a091bc395237c00226972d98046dc096/68d1897a/pwGeSlVnplYdE2dlDa20_963j0TaibRooFVN5dF5wRXURpvtmnrNueH_XPsN7Spb2oJzfzejWp_vWBiHX_VHDw%3D%3D?uid=1130000060647024&filename=qt_ko.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=131255&hid=55ff30deec19cd31481a4fedf695cbea&media_type=executable&tknv=v3&etag=d3eb25e0fff5719e8840612727896b1d&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/4814a541bc3493f63a982942ad729ba2abaaa9374630225fc1b13221e56494ad/68d1a9cc/pwGeSlVnplYdE2dlDa20_963j0TaibRooFVN5dF5wRXURpvtmnrNueH_XPsN7Spb2oJzfzejWp_vWBiHX_VHDw%3D%3D?uid=1130000060647024&filename=qt_ko.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=131255&hid=55ff30deec19cd31481a4fedf695cbea&media_type=executable&tknv=v3&etag=d3eb25e0fff5719e8840612727896b1d",
             "size": 131255,
             "hash": "487755eb0841d47748ccbc2ab8d255ca12277dd0fb687d6ddc730982f8da77ba"
         },
         {
             "path": "release/translations/qt_lv.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/6161ce305b2ee45fd1d082dc54f531f778d9c7466d4ee1644beaf8b00d70b0ee/68d1897a/5O7dCt_iTVKhAWWI8e2-EtP90XGgTFTJqW2920ELmtcPCZ8YJFCbIUkf_km4lMPulYHx0fiLvsY5Sfk1qovy2Q%3D%3D?uid=1130000060647024&filename=qt_lv.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=153598&hid=8a8afc035d3981c98a6cd68685cab67f&media_type=executable&tknv=v3&etag=788862615b8fb13b52e4a80a8c54b3bf&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/80b69d20f62efe8229203a0d310cbbaea7be9e2b42c2c17ecb62789642fe4028/68d1a9cd/5O7dCt_iTVKhAWWI8e2-EtP90XGgTFTJqW2920ELmtcPCZ8YJFCbIUkf_km4lMPulYHx0fiLvsY5Sfk1qovy2Q%3D%3D?uid=1130000060647024&filename=qt_lv.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=153598&hid=8a8afc035d3981c98a6cd68685cab67f&media_type=executable&tknv=v3&etag=788862615b8fb13b52e4a80a8c54b3bf",
             "size": 153598,
             "hash": "257d1201da42c19c34ea0a5f0dfbba3d438fc273a7d5b5b97cd13196e963ed28"
         },
         {
             "path": "release/translations/qt_pl.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/16ffa63fb90692155c353301a19f45864b2eeb5a13b9349a389b2013bda0e653/68d1897a/4C9gctiPJkQMaK073WYUiQhUVSf2DDvOAewGNXTr05huu4TK3e-kXLw44CxVW1kA333bCsH6G8Ms7UIwlqq-2w%3D%3D?uid=1130000060647024&filename=qt_pl.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=162972&hid=9e9b9c3c12f6a78f80988bbb6895db03&media_type=executable&tknv=v3&etag=55a6bb647e176cd4ceb5096c76b87abf&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/50521dd6a864216fde3420aecfdccfccf721ae58d6792589432a365f01463cef/68d1a9ce/4C9gctiPJkQMaK073WYUiQhUVSf2DDvOAewGNXTr05huu4TK3e-kXLw44CxVW1kA333bCsH6G8Ms7UIwlqq-2w%3D%3D?uid=1130000060647024&filename=qt_pl.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=162972&hid=9e9b9c3c12f6a78f80988bbb6895db03&media_type=executable&tknv=v3&etag=55a6bb647e176cd4ceb5096c76b87abf",
             "size": 162972,
             "hash": "99a5a122dbf2e522f99f2bf83201a144e9e340d7b3dd8e16dd785a8cc79fbd69"
         },
         {
             "path": "release/translations/qt_ru.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/d6f65eceae937ce866ed0903d4c5e3edbde25a6ac5d486d6422777f21baa2daa/68d1897a/mW6oLmHHrJnWQ0Zj6hFD7eA5OnQdYYBda3L2rLiBdQs7G-h5ReGBvfYewhxkwRqBN41jdFueaOlhXITo5m7AEw%3D%3D?uid=1130000060647024&filename=qt_ru.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=199043&hid=9c4b3f9701f60157ac74b1d8666491b6&media_type=executable&tknv=v3&etag=80ade6a2b721f7b14b91db7ebd12da77&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/306b4d9b2ff7300e992e1de8b31024bf9a447768d4252e7f2c8a7ba35eb3b260/68d1a9cf/mW6oLmHHrJnWQ0Zj6hFD7eA5OnQdYYBda3L2rLiBdQs7G-h5ReGBvfYewhxkwRqBN41jdFueaOlhXITo5m7AEw%3D%3D?uid=1130000060647024&filename=qt_ru.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=199043&hid=9c4b3f9701f60157ac74b1d8666491b6&media_type=executable&tknv=v3&etag=80ade6a2b721f7b14b91db7ebd12da77",
             "size": 199043,
             "hash": "aa132ed04f8b4e19eb72a25cff963d3f6df8bbdc58e99f3580e9014296eaf7b2"
         },
         {
             "path": "release/translations/qt_sk.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/e652a11519641de5c536fed031d7902d188e9f347c2ae8d895672d5db549ed77/68d1897a/roTGvK1Du7Q5lIEsXoV7Hgx5waDdtI2-1r8mwK8M_zDq9KYGdAEYpamHzHJRSAxOzVJZ461DMZFTOw6gXh1Pgw%3D%3D?uid=1130000060647024&filename=qt_sk.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=125753&hid=f84da207fd94b0da323b3ef88ce1dfee&media_type=executable&tknv=v3&etag=fed9c191096819dd208e0e3e2d051170&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/b2f91f488ec1d9c73ac9f8f627a3b65ee5c2b6e7c3291f00be27c5aa4d8c452f/68d1a9cf/roTGvK1Du7Q5lIEsXoV7Hgx5waDdtI2-1r8mwK8M_zDq9KYGdAEYpamHzHJRSAxOzVJZ461DMZFTOw6gXh1Pgw%3D%3D?uid=1130000060647024&filename=qt_sk.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=125753&hid=f84da207fd94b0da323b3ef88ce1dfee&media_type=executable&tknv=v3&etag=fed9c191096819dd208e0e3e2d051170",
             "size": 125753,
             "hash": "0144819728779d0861859f5451cd5588b2f2def611edeb77b38655d62bdbdf86"
         },
         {
             "path": "release/translations/qt_uk.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/34f749899d102e49944deeeb45b87b7d072466f6b15360c7ed586492ce6995e4/68d1897a/LUNpb5OXmjwn_j6ka28c4co2DTkchYDp-YiCe20Cm-rKktuhuZ7s8_TOEoMN5SAL_a_ueNyraUAs8IduQza9ew%3D%3D?uid=1130000060647024&filename=qt_uk.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=158231&hid=28d554a98099910074a5d5d9c0fccafd&media_type=executable&tknv=v3&etag=9a7a0b316cf7117bf3aa928c762c33b6&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/829b9ee7e30d6e1223333195ac5233ae164f1eaa6cf4e5e5f62a1c31fb812882/68d1a9d0/LUNpb5OXmjwn_j6ka28c4co2DTkchYDp-YiCe20Cm-rKktuhuZ7s8_TOEoMN5SAL_a_ueNyraUAs8IduQza9ew%3D%3D?uid=1130000060647024&filename=qt_uk.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=158231&hid=28d554a98099910074a5d5d9c0fccafd&media_type=executable&tknv=v3&etag=9a7a0b316cf7117bf3aa928c762c33b6",
             "size": 158231,
             "hash": "fd4a436733637cb4759cdb024f0c7d891e8075be46f79796077180a9ff488d27"
         },
         {
             "path": "release/translations/qt_zh_TW.qm",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/fefeede79fe3b575a662f6788e4ccf2c9e875dbf982c631df15407eecdf6852c/68d1897a/tANWpYabm9If1Y6ET1nK2BZdCWThhlnlZuiUPesBzJoitKZvgHcbSIDheBiXrdmxMDIfmFMXsUC6fCDCiw3sNA%3D%3D?uid=1130000060647024&filename=qt_zh_TW.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=127839&hid=a47d13b059a9d6e03bb71b1bcd79ffdc&media_type=executable&tknv=v3&etag=e6b27d6f8ad2b2e090d159daa818b1ae&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/a3eb783c79e93ed68af634454fa1ac5d96f569578e2e35b4f280ea16bf71705a/68d1a9d1/tANWpYabm9If1Y6ET1nK2BZdCWThhlnlZuiUPesBzJoitKZvgHcbSIDheBiXrdmxMDIfmFMXsUC6fCDCiw3sNA%3D%3D?uid=1130000060647024&filename=qt_zh_TW.qm&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=127839&hid=a47d13b059a9d6e03bb71b1bcd79ffdc&media_type=executable&tknv=v3&etag=e6b27d6f8ad2b2e090d159daa818b1ae",
             "size": 127839,
             "hash": "17e9e4871be60aa3d22c86ff990bc762bc81ea5690a68579ea062d8ed7f3d3d4"
         },
         {
             "path": "release/D3Dcompiler_47.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/417668294d4b18c4a7753ab73eecafa21e66aac66f7583dbe42f627e43311969/68d18975/KMCoHnFg77tL90MdiOQnXuWm1jJH6XaklNMGKvssYbeqG8wTo0vCO1MO6HE80ume7LIrtABQjVUnqNgwBxR8Nw%3D%3D?uid=1130000060647024&filename=D3Dcompiler_47.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-msdownload&owner_uid=1130000060647024&fsize=4173928&hid=39beb613b8de04d35f7c637eb5fdaf27&media_type=executable&tknv=v3&etag=b0ae3aa9dd1ebd60bdf51cb94834cd04&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/ab869d45adef68acb9cb5d72dfd64c4558efbfd17de9e55022bb86caef2c19b3/68d1a9d2/KMCoHnFg77tL90MdiOQnXuWm1jJH6XaklNMGKvssYbeqG8wTo0vCO1MO6HE80ume7LIrtABQjVUnqNgwBxR8Nw%3D%3D?uid=1130000060647024&filename=D3Dcompiler_47.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-msdownload&owner_uid=1130000060647024&fsize=4173928&hid=39beb613b8de04d35f7c637eb5fdaf27&media_type=executable&tknv=v3&etag=b0ae3aa9dd1ebd60bdf51cb94834cd04",
             "size": 4173928,
             "hash": "e994847e01a6f1e4cbdc5a864616ac262f67ee4f14db194984661a8d927ab7f4"
         },
         {
             "path": "release/Qt5Core.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/2b5a820609408b144ed0e526216fba7e74740a66bec40aa0c07a64bdc1fa42d9/68d18975/oo2Pr-rO6druIpfEhwtV-hag3MX785bD6Ww9yq3n4MOBeUJC9DGWjE2y4d1ZmN7MAYJfS7ET7noHZa1zYm9Wjw%3D%3D?uid=1130000060647024&filename=Qt5Core.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=8343776&hid=9c8698948ba1bbb13e1fab349fda21cf&media_type=executable&tknv=v3&etag=1150831734b0297a49b1e43fa8b7e318&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/66fff935e07d2bd68187c9882ad96dc7b441b4c0cc717c5967aceaf63a0cddf0/68d1a9d3/oo2Pr-rO6druIpfEhwtV-hag3MX785bD6Ww9yq3n4MOBeUJC9DGWjE2y4d1ZmN7MAYJfS7ET7noHZa1zYm9Wjw%3D%3D?uid=1130000060647024&filename=Qt5Core.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=8343776&hid=9c8698948ba1bbb13e1fab349fda21cf&media_type=executable&tknv=v3&etag=1150831734b0297a49b1e43fa8b7e318",
             "size": 8343776,
             "hash": "019ab6aa811087b36d0a91c35a70b8eb7756b7f0f072afa0449b3805ccac7efc"
         },
         {
             "path": "release/Qt5Gui.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/a2c5da1d68a0ddd196ff52f4e0bd9f1de4fefefc947088c69cb1f913818f004c/68d18975/oo2Pr-rO6druIpfEhwtV-g58eZu3ji_6LWS2Sx2CvzIyNjdjt8a4G1zUB0PwCsf2WFPw-rIzduhETfNnxvWFlQ%3D%3D?uid=1130000060647024&filename=Qt5Gui.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=9844240&hid=c7e9efd57dd3a5303517c43041c6b826&media_type=executable&tknv=v3&etag=a70230bd5579488021af3bd84422a1b4&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/676d54fe647ecb53f90b779d9a65654ad1bc3da27089809dbc6e36e7ca2befde/68d1a9d4/oo2Pr-rO6druIpfEhwtV-g58eZu3ji_6LWS2Sx2CvzIyNjdjt8a4G1zUB0PwCsf2WFPw-rIzduhETfNnxvWFlQ%3D%3D?uid=1130000060647024&filename=Qt5Gui.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=9844240&hid=c7e9efd57dd3a5303517c43041c6b826&media_type=executable&tknv=v3&etag=a70230bd5579488021af3bd84422a1b4",
             "size": 9844240,
             "hash": "43deed28133c0e530ed44fff3649a87022a80bdb4ef493048518c72ac4656b99"
         },
         {
             "path": "release/Qt5Svg.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/15e967ca1ac4e276950bccc4f5225cec56993327e02e9b6c88666c070c4a3813/68d18975/qcLmL7NmRI-P4857tC7SdvklaCBSW1BHTACHVs1-S-Dwok7MxJlsqCM96RabPq1HbMfS-qIjrh0sdKTeF5pXjw%3D%3D?uid=1130000060647024&filename=Qt5Svg.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=575128&hid=8471d97503492105d28d532250af5187&media_type=executable&tknv=v3&etag=e497b7abf7adca6f3cb307953b9a7155&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/a849c123e8f4eb8e5195a6f4b9cfdfd58ea6013d4d1a32b0c5cae83f35521602/68d1a9d5/qcLmL7NmRI-P4857tC7SdvklaCBSW1BHTACHVs1-S-Dwok7MxJlsqCM96RabPq1HbMfS-qIjrh0sdKTeF5pXjw%3D%3D?uid=1130000060647024&filename=Qt5Svg.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=575128&hid=8471d97503492105d28d532250af5187&media_type=executable&tknv=v3&etag=e497b7abf7adca6f3cb307953b9a7155",
             "size": 575128,
             "hash": "e8543ca27629869a6287ac20e55e542ac0f094d336b988c72db570fe913d408e"
         },
         {
             "path": "release/Qt5Widgets.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/a031c9d56b84d89c035c5ab8b487323744df934713ca436a1b60396887f1c9fc/68d18975/oo2Pr-rO6druIpfEhwtV-siognajk7xZA2f12F9otVEfv_6x7XAl_9YGV4fAnjbGvQ-0R6K-AgLHLQzpbzhbNA%3D%3D?uid=1130000060647024&filename=Qt5Widgets.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=8623912&hid=8519d148ff4bb304a2b348a7f0aa3347&media_type=executable&tknv=v3&etag=11782e3373c443218abb9c84b6582aa9&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/05cda469709d1858d16b10b95ef2c2fa5963c204b217d7baef678305bdc0f339/68d1a9d6/oo2Pr-rO6druIpfEhwtV-siognajk7xZA2f12F9otVEfv_6x7XAl_9YGV4fAnjbGvQ-0R6K-AgLHLQzpbzhbNA%3D%3D?uid=1130000060647024&filename=Qt5Widgets.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=8623912&hid=8519d148ff4bb304a2b348a7f0aa3347&media_type=executable&tknv=v3&etag=11782e3373c443218abb9c84b6582aa9",
             "size": 8623912,
             "hash": "90fe759952447724da52351e7bcee6f51248b5d9577ab39f22bfd548c8931de9"
         },
         {
             "path": "release/game.exe",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/6d5f0612dc92fc2d6835f9fecf5512a527d80ba38c2b90f05a8368255ed1870b/68d18975/fKqInKw3d7bLFOeFnMGnhOYvyB_GaTwDLTp1441CqlqeIa6jkoD_Dkp-ka7JGlTfeTylCtHvXwmLQQ1Y9v1Iwx5-c7vERIwclHNV0nlnLEWr8npumZHI4midPdWhecNq?uid=1130000060647024&filename=game.exe&disposition=attachment&hash=&limit=0&content_type=application%2Fvnd.microsoft.portable-executable&owner_uid=1130000060647024&fsize=26112&hid=529bdefd91c27f57fb3973a4ccf3d200&media_type=executable&tknv=v3&etag=aa775456ac79d0e3f339db23bb68b6db&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/42f73db4193edafa5e42ef2e625c6f870f78e8ffb190736c89794a5f5dfe467a/68d1a9d7/fKqInKw3d7bLFOeFnMGnhOYvyB_GaTwDLTp1441CqlqeIa6jkoD_Dkp-ka7JGlTfeTylCtHvXwmLQQ1Y9v1Iwx5-c7vERIwclHNV0nlnLEWr8npumZHI4midPdWhecNq?uid=1130000060647024&filename=game.exe&disposition=attachment&hash=&limit=0&content_type=application%2Fvnd.microsoft.portable-executable&owner_uid=1130000060647024&fsize=26112&hid=529bdefd91c27f57fb3973a4ccf3d200&media_type=executable&tknv=v3&etag=aa775456ac79d0e3f339db23bb68b6db",
             "size": 26112,
             "hash": "79630435e6a7a188210266ec4cf4e175fd1e89e7c1b3951141d4306f984942d4"
         },
         {
             "path": "release/libEGL.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/2878a55e5d93fc4f218a9d56bfdbc4cbce30f1e5e8159d95c1ba8aa7b6a3130c/68d18975/qcLmL7NmRI-P4857tC7SdhwplQphc46oTSugbtK3Twmky9BDVk0z5R29MzJjACXE-Bw3ZeG08zoMesXob2OtXQ%3D%3D?uid=1130000060647024&filename=libEGL.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=67688&hid=1e0ff9f974c9498110f170075873d391&media_type=executable&tknv=v3&etag=5bec63d54052cb44287b7369d401f8dd&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/f2ba81e337ebf578a39b293c95e4aa67b8f5323181f5e8ee0dfedfab94236837/68d1a9d8/qcLmL7NmRI-P4857tC7SdhwplQphc46oTSugbtK3Twmky9BDVk0z5R29MzJjACXE-Bw3ZeG08zoMesXob2OtXQ%3D%3D?uid=1130000060647024&filename=libEGL.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=67688&hid=1e0ff9f974c9498110f170075873d391&media_type=executable&tknv=v3&etag=5bec63d54052cb44287b7369d401f8dd",
             "size": 67688,
             "hash": "6f2af191db10019374e79e2afe2febfaa53c21257efcd4d41b50d947c700e2d3"
         },
         {
             "path": "release/libGLESv2.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/3557a745af9fbc542dc7a6e388cddb0044d6e97c241e626921ab2b69031b3def/68d18975/qcLmL7NmRI-P4857tC7SdtDrxyvDhjGRXnNmPMEUpivmzYwM_KzgYp_gdiC5eqWeiik-QkcSEfk_0daCnQfkCA%3D%3D?uid=1130000060647024&filename=libGLESv2.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=6362768&hid=31ab7b05a229886edc3a464f2ea8b4e2&media_type=executable&tknv=v3&etag=8c8b91efe66c1e8fdcdfcc3794a7a798&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/938abfea55d27e1ded756c72e976f4b1e11b801fdad33463a83c19f13d41e1c8/68d1a9d9/qcLmL7NmRI-P4857tC7SdtDrxyvDhjGRXnNmPMEUpivmzYwM_KzgYp_gdiC5eqWeiik-QkcSEfk_0daCnQfkCA%3D%3D?uid=1130000060647024&filename=libGLESv2.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-dosexec&owner_uid=1130000060647024&fsize=6362768&hid=31ab7b05a229886edc3a464f2ea8b4e2&media_type=executable&tknv=v3&etag=8c8b91efe66c1e8fdcdfcc3794a7a798",
             "size": 6362768,
             "hash": "46998b7ca48999b07005d4bcaa4256abce3150cc5f2c527fff26779cd76f1bd8"
         },
         {
             "path": "release/libgcc_s_seh-1.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/4b82eebd69b88cca537dcecc08a79037a8b5821eb77e977afb425f22c8fb394c/68d18975/QsjtT4blfbM0sPn4K7g49QOrT-Nheu2j6VOTMQGZJBXsPJ4zhWMIX0dqDBW7G05GRBSOc9d9HvMZJMEK8gJF_w%3D%3D?uid=1130000060647024&filename=libgcc_s_seh-1.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-msdownload&owner_uid=1130000060647024&fsize=74240&hid=b9dd8f26befa11ae4a434e2000df7ded&media_type=executable&tknv=v3&etag=98130c9779c39825dd123029060b8084&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/7e4c24e0513f177530fcb2c5b92a3b2d3eabd29341857fdd2b47ad3092cf8ebe/68d1a9da/QsjtT4blfbM0sPn4K7g49QOrT-Nheu2j6VOTMQGZJBXsPJ4zhWMIX0dqDBW7G05GRBSOc9d9HvMZJMEK8gJF_w%3D%3D?uid=1130000060647024&filename=libgcc_s_seh-1.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-msdownload&owner_uid=1130000060647024&fsize=74240&hid=b9dd8f26befa11ae4a434e2000df7ded&media_type=executable&tknv=v3&etag=98130c9779c39825dd123029060b8084",
             "size": 74240,
             "hash": "479907904acf2836a3e103a192393e98c98cfddc1b4c0b8ff20a442521900c6a"
         },
         {
             "path": "release/libstdc++-6.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/f6ad5231f86e1d87a998fa2e71689b00bdc06a2247eb09b653ce97fe0a1a31c3/68d18975/QsjtT4blfbM0sPn4K7g49QKs5gxaAlCgTwfKYTIJrfXqeZLDX-88kSuAqQU72GkFOpavQAgs4NwKZ4Jz0YAU1A%3D%3D?uid=1130000060647024&filename=libstdc%2B%2B-6.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-msdownload&owner_uid=1130000060647024&fsize=1425920&hid=fef39f43d626b4d2e7e3728d8a4e343f&media_type=executable&tknv=v3&etag=125265fb9a6e7c8fcfd8766f469e69d6&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "",
             "size": 1425920,
             "hash": "cdd31659dedfc2aac51b2cabb77c061603fd3f91fe98958b9c179cc3f4ac6104"
         },
         {
             "path": "release/libwinpthread-1.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/c0fb3c35f6d913eda0ea3743d6f1d7d33b86cbaf27ab59a5f86c96dfce4a33ed/68d18975/QsjtT4blfbM0sPn4K7g49e5GJjJu2lc1EjGVV2ntoxBMc0069Q-eIOKODhT17WqhEVnHznXFQGgkPjKGpo3BPQ%3D%3D?uid=1130000060647024&filename=libwinpthread-1.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-msdownload&owner_uid=1130000060647024&fsize=52224&hid=2e7f066095dfb1b2bf79f5659327462b&media_type=executable&tknv=v3&etag=d555a92522aee2732a1481b3803e9ea1&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/64e2baf064aaac22da305717fb04cce62962b24bdbe38cae0b159bf50f528870/68d1a9dc/QsjtT4blfbM0sPn4K7g49e5GJjJu2lc1EjGVV2ntoxBMc0069Q-eIOKODhT17WqhEVnHznXFQGgkPjKGpo3BPQ%3D%3D?uid=1130000060647024&filename=libwinpthread-1.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-msdownload&owner_uid=1130000060647024&fsize=52224&hid=2e7f066095dfb1b2bf79f5659327462b&media_type=executable&tknv=v3&etag=d555a92522aee2732a1481b3803e9ea1",
             "size": 52224,
             "hash": "bd4f622a67e6f33aec119d987b1ae2b0fc52b8d5a1b2a805aab654d507f569d3"
         },
         {
             "path": "release/main.o",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/a91d8d4a7327aec4eed1db30a53c1bbf3e70ba69181b2afcf917452399a88768/68d18975/oo2Pr-rO6druIpfEhwtV-mpWRHBqCnObQuyESfeLqnrMJOKbunKWKGjmjRnbP1hINlyPmWNBIt-0GnWDFMhCcA%3D%3D?uid=1130000060647024&filename=main.o&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=1320&hid=283ccba4b17b68b4f7eb4db026560585&media_type=development&tknv=v3&etag=fc9f23d82170f32482f935993b122f71&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/3f2c66c507517c4798ae4b4a831276c1644f2c542794fdd526d2f7b7e9293eb4/68d1a9dd/oo2Pr-rO6druIpfEhwtV-mpWRHBqCnObQuyESfeLqnrMJOKbunKWKGjmjRnbP1hINlyPmWNBIt-0GnWDFMhCcA%3D%3D?uid=1130000060647024&filename=main.o&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=1320&hid=283ccba4b17b68b4f7eb4db026560585&media_type=development&tknv=v3&etag=fc9f23d82170f32482f935993b122f71",
             "size": 1320,
             "hash": "365dd0439b9434a0464eab33d17248ec9b25a5a5a482b47859098cac47e09d17"
         },
         {
             "path": "release/mainwindow.o",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/b4fda4a71c3234fe1eb0df276820eeb331626a5f8bf62351ac31f637e9397941/68d18975/fKqInKw3d7bLFOeFnMGnhFe-8PqH1O4jknTe-YVMrU--zzggB4SAJ87sQJJE8cUlTmbk3426liZQFAAmj0aJ4bYp9PKMHKItlSJHpGVx5_Kr8npumZHI4midPdWhecNq?uid=1130000060647024&filename=mainwindow.o&disposition=attachment&hash=&limit=0&content_type=application%2Fx-coff&owner_uid=1130000060647024&fsize=5443&hid=57ba690a39410dda83314f73dd79148a&media_type=development&tknv=v3&etag=ceb6bda0afca0e2e2cf70a8825815cc7&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/1ca90363e643ba9058d68613859f0a37f3343c0896ee9c31b186befe7ef53af7/68d1a9de/fKqInKw3d7bLFOeFnMGnhFe-8PqH1O4jknTe-YVMrU--zzggB4SAJ87sQJJE8cUlTmbk3426liZQFAAmj0aJ4bYp9PKMHKItlSJHpGVx5_Kr8npumZHI4midPdWhecNq?uid=1130000060647024&filename=mainwindow.o&disposition=attachment&hash=&limit=0&content_type=application%2Fx-coff&owner_uid=1130000060647024&fsize=5443&hid=57ba690a39410dda83314f73dd79148a&media_type=development&tknv=v3&etag=ceb6bda0afca0e2e2cf70a8825815cc7",
             "size": 5443,
             "hash": "ecbbce33e1c23e28e510e7190c0cc144ac543e503ac970e0a5fb822882a2f992"
         },
         {
             "path": "release/moc_mainwindow.cpp",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/e6dc5b2f53d5df9a097fb406688342f3aaad25a1ca267896d648ebad5f3314dd/68d18975/fKqInKw3d7bLFOeFnMGnhO42so5AOl4LpQ3lC71kmLi9M2RrqX6oP_WWkWZ1vNdIcC-qlb6yc2yNA62lHglP07QKSbSqkFcxTKD4bpRu70yr8npumZHI4midPdWhecNq?uid=1130000060647024&filename=moc_mainwindow.cpp&disposition=attachment&hash=&limit=0&content_type=text%2Fx-c&owner_uid=1130000060647024&fsize=2805&hid=9644ce65e9954233d4d08e59c36adb7f&media_type=development&tknv=v3&etag=7a333af5e04174c5debe44e38f4b79c8&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/c893eea87b9f79d6f78508c52308f1f94f51b7bf2bc78cf8cc4f6640e383e577/68d1a9df/fKqInKw3d7bLFOeFnMGnhO42so5AOl4LpQ3lC71kmLi9M2RrqX6oP_WWkWZ1vNdIcC-qlb6yc2yNA62lHglP07QKSbSqkFcxTKD4bpRu70yr8npumZHI4midPdWhecNq?uid=1130000060647024&filename=moc_mainwindow.cpp&disposition=attachment&hash=&limit=0&content_type=text%2Fx-c&owner_uid=1130000060647024&fsize=2805&hid=9644ce65e9954233d4d08e59c36adb7f&media_type=development&tknv=v3&etag=7a333af5e04174c5debe44e38f4b79c8",
             "size": 2805,
             "hash": "d7341e2776ef168cdeec427d060004f087f59aabde8abaa7482915f98643216f"
         },
         {
             "path": "release/moc_mainwindow.o",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/c3c05093278c0e4d5b5f02cf9323df0944c2e17be6104c8e7a792c16d0268280/68d18975/vkIrdbI_F9jdZ7TiBL5ou2EmJLbM3ltiNNUUxVBBNuIPlOiKmvfMandZJ10bkusFQ-BzRKl6-wX4lJHx2LG72w%3D%3D?uid=1130000060647024&filename=moc_mainwindow.o&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=9314&hid=58d9413ad2998df1e95e17ea9b86e954&media_type=development&tknv=v3&etag=b6141fa3d53390ec27d4af72ca4f606c&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/1667e59d27e42bb3a5b108b402b64b486d468f3afcf50c73273d87b4bc6def10/68d1a9e0/vkIrdbI_F9jdZ7TiBL5ou2EmJLbM3ltiNNUUxVBBNuIPlOiKmvfMandZJ10bkusFQ-BzRKl6-wX4lJHx2LG72w%3D%3D?uid=1130000060647024&filename=moc_mainwindow.o&disposition=attachment&hash=&limit=0&content_type=application%2Foctet-stream&owner_uid=1130000060647024&fsize=9314&hid=58d9413ad2998df1e95e17ea9b86e954&media_type=development&tknv=v3&etag=b6141fa3d53390ec27d4af72ca4f606c",
             "size": 9314,
             "hash": "7ce5b3ef48e186b20b9373b67c4fe0741fdd6247d6e7326b2169560ac3fa4b2c"
         },
         {
             "path": "release/moc_predefs.h",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/a067bd8ed54ea12806e0738a97ffd7587f1a87e4f1f55669eaedeccf3b7e896e/68d18975/K9I2ZGujqvQ0fhdvhxOIqpiMR5lbsMD6X26ogNRGpKm008RbDmGcTWCMLM3-hHv8XZX2chDH0lRWsBOYkLYHuw%3D%3D?uid=1130000060647024&filename=moc_predefs.h&disposition=attachment&hash=&limit=0&content_type=text%2Fplain&owner_uid=1130000060647024&fsize=14583&hid=819562cae4ff64e3f7a5e6d219fec232&media_type=development&tknv=v3&etag=ce620d3a6c039154364f85b01bb517bd&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/ba204daf95db8bd2ea2f12595ee3f76ae377226d462a81b95e37061723b40d57/68d1a9e1/K9I2ZGujqvQ0fhdvhxOIqpiMR5lbsMD6X26ogNRGpKm008RbDmGcTWCMLM3-hHv8XZX2chDH0lRWsBOYkLYHuw%3D%3D?uid=1130000060647024&filename=moc_predefs.h&disposition=attachment&hash=&limit=0&content_type=text%2Fplain&owner_uid=1130000060647024&fsize=14583&hid=819562cae4ff64e3f7a5e6d219fec232&media_type=development&tknv=v3&etag=ce620d3a6c039154364f85b01bb517bd",
             "size": 14583,
             "hash": "2a10971ebcf8ca5706a9a8159c1b74c9457f8d6d3f60c72fc8a0c7d9ee4f7f72"
         },
         {
             "path": "release/opengl32sw.dll",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/c43957ade00d81b1548fad5c2546013ecfafca4f8e4e56839d8a431246169c45/68d18975/OLe-xr037kchWQydpMD_26_bZRQJTHlsP566TPwDXJHMNErDuKpK2vKVU0FAAM8c4NW0il2BcwBo_JHGmlNOqA%3D%3D?uid=1130000060647024&filename=opengl32sw.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-msdownload&owner_uid=1130000060647024&fsize=20923392&hid=2c1770d38a4867cf324e11313f6ccdd9&media_type=executable&tknv=v3&etag=7dbc97bfee0c7ac89da8d0c770c977b6&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/88af457b04e021ce9a41453fa685ce6ee03e0616ffe62c77f6750345f58a313e/68d1a9e2/OLe-xr037kchWQydpMD_26_bZRQJTHlsP566TPwDXJHMNErDuKpK2vKVU0FAAM8c4NW0il2BcwBo_JHGmlNOqA%3D%3D?uid=1130000060647024&filename=opengl32sw.dll&disposition=attachment&hash=&limit=0&content_type=application%2Fx-msdownload&owner_uid=1130000060647024&fsize=20923392&hid=2c1770d38a4867cf324e11313f6ccdd9&media_type=executable&tknv=v3&etag=7dbc97bfee0c7ac89da8d0c770c977b6",
             "size": 20923392,
             "hash": "963641a718f9cae2705d5299eae9b7444e84e72ab3bef96a691510dd05fa1da4"
         },
         {
             "path": "version.json",
-            "url": "https://downloader.disk.yandex.ru/disk/https://downloader.disk.yandex.ru/disk/acae16294373298b2dd2dbf6b7d9d5b625a4eac05192b8cfc6de40a0adf62317/68d18974/fKqInKw3d7bLFOeFnMGnhFJLpxCwUiUrUkiJGaAGStl6EXbczyaMA6TIzrsy9dfCYnyZoPeMhAUs9AfpUdaxPKchpwGzjiNJJpjjJ6iKjCur8npumZHI4midPdWhecNq?uid=1130000060647024&filename=version.json&disposition=attachment&hash=&limit=0&content_type=application%2Fjson&owner_uid=1130000060647024&fsize=13764&hid=3860af532962d09ce01def040c81cfc4&media_type=unknown&tknv=v3&etag=294890a8fd372c729dfd9ecf6d605813&token=y0__xDwjNihqveAAhjblgMg-rv4uxSMZY4KdJyfJCpLRwj14lVKGt71gw",
+            "url": "https://downloader.disk.yandex.ru/disk/9520d1d4df5b52433720029f638758abd49f14abe840a1e968ac599d3e8df86b/68d1a9e3/fKqInKw3d7bLFOeFnMGnhFJLpxCwUiUrUkiJGaAGStl6EXbczyaMA6TIzrsy9dfCYnyZoPeMhAUs9AfpUdaxPKchpwGzjiNJJpjjJ6iKjCur8npumZHI4midPdWhecNq?uid=1130000060647024&filename=version.json&disposition=attachment&hash=&limit=0&content_type=application%2Fjson&owner_uid=1130000060647024&fsize=13764&hid=3860af532962d09ce01def040c81cfc4&media_type=unknown&tknv=v3&etag=294890a8fd372c729dfd9ecf6d605813",
             "size": 13764,
             "hash": "17d9a6e24b2f38b6004f01846056b859fe94bb4b27fdc6980211f0ad1fc2066a"
         }
